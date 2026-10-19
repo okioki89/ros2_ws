@@ -1,0 +1,6 @@
+do_celu:
+  ros__parameters:
+    cel_x: 3.0
+    cel_y: 3.0
+    dlugosc_x: 1.0
+    dlugosc_y: 1.0
